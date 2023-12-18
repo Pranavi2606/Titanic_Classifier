@@ -1,1 +1,1 @@
-# Titanic_Classifier
+# Titanic-Classifier
